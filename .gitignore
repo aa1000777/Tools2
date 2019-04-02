@@ -1,0 +1,6 @@
+.svn/
+.git/
+.gradle/
+.idea/
+build/
+Pods/
